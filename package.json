@@ -4,5 +4,15 @@
   "main": "index.js",
   "repository": "git@github.com:JhonatanDczel/npx-dczel.git",
   "author": "JhonatanDczel <jariasq@unsa.edu.pe>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "clear": "^0.1.0",
+    "inquirer": "^9.2.14",
+    "open": "^10.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
